@@ -1,642 +1,613 @@
-Processing record 1: Butaritari, ID: 2110227 
-Processing record 2: Tahe, ID: 2034615 
-Processing record 3: Port Alfred, ID: 964432 
-Processing record 4: Santa Quiteria do Maranhao, ID: 3389358 
-Processing record 5: Codajas, ID: 3664525 
-Processing record 6: Kapaa, ID: 5848280 
-Processing record 7: Contramaestre, ID: 3563504 
-Processing record 8: Comodoro Rivadavia, ID: 3860443 
-Processing record 9: Cape Town, ID: 3369157 
-Processing record 10: Ambulu, ID: 1621313 
-Processing record 11: Iqaluit, ID: 5983720 
-Processing record 12: Lexington, ID: 4297983 
-Processing record 13: Aksarka, ID: 1512019 
-Processing record 14: Ushuaia, ID: 3833367 
-Processing record 15: Albany, ID: 2077963 
-Processing record 16: Roros, ID: 3141332 
-Processing record 17: Alice Springs, ID: 2077895 
-Processing record 18: Bokoro, ID: 2434985 
+Processing record 1: Cidreira, ID: 3466165 
+Processing record 2: Rafsanjan, ID: 118994 
+Processing record 3: Quatre Cocos, ID: 1106643 
+Processing record 4: Padang, ID: 1633419 
 mataura, pf not found. Skipping City...
-Processing record 19: Atuona, ID: 4020109 
-Processing record 20: Skjervoy, ID: 777682 
-Processing record 21: Katsuura, ID: 1865309 
-angra, pt not found. Skipping City...
-Processing record 22: Pangnirtung, ID: 6096551 
-Processing record 23: Tilichiki, ID: 2120591 
-Processing record 24: Hobart, ID: 2163355 
-Processing record 25: Khatanga, ID: 2022572 
-Processing record 26: Flinders, ID: 6255012 
-araguatins, br not found. Skipping City...
-Processing record 27: Teguise, ID: 2510573 
-Processing record 28: Rocha, ID: 3440777 
-Processing record 29: Yellowknife, ID: 6185377 
-Processing record 30: Saint George, ID: 3573061 
-Processing record 31: Ulaanbaatar, ID: 2028462 
-Processing record 32: Nampula, ID: 1033356 
-Processing record 33: Mextepec, ID: 3532513 
-Processing record 34: Westport, ID: 2960970 
-Processing record 35: Tuktoyaktuk, ID: 6170031 
-Processing record 36: Tupiza, ID: 3902202 
-Processing record 37: Jamestown, ID: 3370903 
-Processing record 38: Kalabo, ID: 915471 
-Processing record 39: Saint-Augustin, ID: 6138501 
-Processing record 40: George Town, ID: 3580661 
-Processing record 41: Bambanglipuro, ID: 1650434 
-Processing record 42: Roma, ID: 2151187 
-Processing record 43: Ribeira Grande, ID: 3372707 
-Processing record 44: Hamilton, ID: 3573197 
-Processing record 45: Dikson, ID: 1507390 
-Processing record 46: Sorland, ID: 3137469 
-Processing record 47: Hermanus, ID: 3366880 
-Processing record 48: Nyon, ID: 2659422 
-Processing record 49: Mount Isa, ID: 2065594 
-Processing record 50: Punta Arenas, ID: 3874787 
-Processing record 51: Rikitea, ID: 4030556 
-Processing record 52: Hithadhoo, ID: 1282256 
-gat, ly not found. Skipping City...
-Processing record 53: Port Lincoln, ID: 2063036 
-elat, il not found. Skipping City...
-Processing record 54: Chapais, ID: 5919850 
-Processing record 55: Manokwari, ID: 1636308 
-Processing record 56: Port Elizabeth, ID: 964420 
-Processing record 57: Atar, ID: 2381334 
-Processing record 58: Henties Bay, ID: 3356832 
-Processing record 59: Kununurra, ID: 2068110 
-Processing record 60: Tazovskiy, ID: 1489853 
-Processing record 61: Avarua, ID: 4035715 
-bengkulu, id not found. Skipping City...
-Processing record 62: Kavieng, ID: 2094342 
-Processing record 63: Ust-Koksa, ID: 1488167 
-Processing record 64: Qaanaaq, ID: 3831208 
-Processing record 65: Myre, ID: 3145148 
-Processing record 66: Altamira, ID: 3407882 
-nizhneyansk, ru not found. Skipping City...
-Processing record 67: Clinton, ID: 4320277 
-Processing record 68: Puerto Ayora, ID: 3652764 
-Processing record 69: Castro, ID: 3896218 
-Processing record 70: Vardo, ID: 777019 
-Processing record 71: Nizwa, ID: 286987 
-saleaula, ws not found. Skipping City...
-Processing record 72: Nome, ID: 4732862 
-Processing record 73: Tonantins, ID: 3661894 
-Processing record 74: Poya, ID: 2138522 
-faya, td not found. Skipping City...
-Processing record 75: Sabang, ID: 1623502 
-Processing record 76: Norman Wells, ID: 6089245 
-Processing record 77: Busselton, ID: 2075265 
-Processing record 78: Bluff, ID: 2206939 
-samusu, ws not found. Skipping City...
-Processing record 79: Xuddur, ID: 49747 
-Processing record 80: Aksu, ID: 1529660 
-Processing record 81: Saldanha, ID: 3361934 
-Processing record 82: Mayumba, ID: 2399001 
-Processing record 83: Barrow, ID: 4252975 
-Processing record 84: Carroll, ID: 4850478 
-Processing record 85: Carnarvon, ID: 2074865 
-Processing record 86: Yar-Sale, ID: 1486321 
-Processing record 87: Faanui, ID: 4034551 
-Processing record 88: Koulikoro, ID: 2454530 
-Processing record 89: Grimmen, ID: 2917309 
-Processing record 90: Hilo, ID: 5855927 
-Processing record 91: Upernavik, ID: 3418910 
-Processing record 92: Vaini, ID: 4032243 
-Processing record 93: Torbay, ID: 6167817 
-Processing record 94: Broome, ID: 2075720 
-Processing record 95: Tautira, ID: 4033557 
-illoqqortoormiut, gl not found. Skipping City...
-Processing record 96: Te Anau, ID: 2181625 
-Processing record 97: Toyooka, ID: 1849831 
-Processing record 98: Huainan, ID: 1807681 
-Processing record 99: Youghal, ID: 2960869 
-san quintin, mx not found. Skipping City...
-Processing record 100: Masumbwe, ID: 154654 
-tuggurt, dz not found. Skipping City...
-tsihombe, mg not found. Skipping City...
-wulanhaote, cn not found. Skipping City...
-Processing record 101: Ponta do Sol, ID: 3374346 
-Processing record 102: Namatanai, ID: 2090021 
-Processing record 103: Tiksi, ID: 2015306 
-Processing record 104: New Norfolk, ID: 2155415 
-Processing record 105: Marawi, ID: 370481 
-Processing record 106: Ransang, ID: 1691872 
-Processing record 107: Dhemaji, ID: 1272783 
-esna, eg not found. Skipping City...
-Processing record 108: Pevek, ID: 2122090 
-Processing record 109: Brantford, ID: 5907990 
-Processing record 110: Turukhansk, ID: 1488903 
-Processing record 111: Verkhnyaya Inta, ID: 1487332 
-Processing record 112: Hervey Bay, ID: 2146219 
-Processing record 113: Honiara, ID: 2108502 
-taolanaro, mg not found. Skipping City...
-Processing record 114: Namibe, ID: 3347019 
-Processing record 115: Sangod, ID: 1257410 
-Processing record 116: Kaitangata, ID: 2208248 
-Processing record 117: Isangel, ID: 2136825 
-attawapiskat, ca not found. Skipping City...
-Processing record 118: Rio Grande, ID: 3451138 
-Processing record 119: Solnechnyy, ID: 2016307 
-Processing record 120: Mount Gambier, ID: 2156643 
-Processing record 121: Bandarbeyla, ID: 64814 
-Processing record 122: Mayo, ID: 6068416 
-Processing record 123: Lixourion, ID: 258175 
-Processing record 124: Bani Walid, ID: 2218840 
-Processing record 125: Barra do Garcas, ID: 3470709 
-Processing record 126: Ajdabiya, ID: 89113 
-Processing record 127: Hofn, ID: 2630299 
-Processing record 128: Port Hardy, ID: 6111862 
-Processing record 129: Antofagasta, ID: 3899539 
-meyungs, pw not found. Skipping City...
-Processing record 130: Tabou, ID: 2281120 
-Processing record 131: Porkhov, ID: 506278 
-Processing record 132: Chernenko, ID: 839658 
-Processing record 133: Biak, ID: 1637001 
-Processing record 134: Ancud, ID: 3899695 
-Processing record 135: Terrace, ID: 6162949 
-Processing record 136: Pisco, ID: 3932145 
-Processing record 137: Vallenar, ID: 3868633 
-Processing record 138: Cidreira, ID: 3466165 
-Processing record 139: Nanortalik, ID: 3421765 
-Processing record 140: Jaunjelgava, ID: 459402 
-Processing record 141: Chimbote, ID: 3698304 
-Processing record 142: Bethel, ID: 5880568 
-Processing record 143: Provideniya, ID: 4031574 
-Processing record 144: Banda Aceh, ID: 1215502 
-Processing record 145: Mar del Plata, ID: 3863379 
-Processing record 146: Delray Beach, ID: 4153132 
-Processing record 147: Kruisfontein, ID: 986717 
-Processing record 148: San Patricio, ID: 3985168 
-Processing record 149: Lompoc, ID: 5367788 
-Processing record 150: Newport, ID: 5223593 
-Processing record 151: Kachug, ID: 2023333 
-Processing record 152: Myitkyina, ID: 1307741 
-Processing record 153: Kidal, ID: 2455290 
-Processing record 154: Kloulklubed, ID: 7671223 
-Processing record 155: Iralaya, ID: 3608828 
-Processing record 156: Bud, ID: 7626370 
-Processing record 157: Ossora, ID: 2122389 
-Processing record 158: Haukipudas, ID: 658630 
-amderma, ru not found. Skipping City...
-sorvag, fo not found. Skipping City...
-Processing record 159: Neuquen, ID: 3843123 
-Processing record 160: Woodward, ID: 4556050 
-Processing record 161: Kodiak, ID: 4407665 
-Processing record 162: Beringovskiy, ID: 2126710 
-Processing record 163: Talnakh, ID: 1490256 
-Processing record 164: Santa Maria, ID: 3374218 
-Processing record 165: Campoverde, ID: 3733380 
-Processing record 166: Hami, ID: 1529484 
-Processing record 167: Luderitz, ID: 3355672 
-Processing record 168: Tasiilaq, ID: 3424607 
-Processing record 169: Lebedyn, ID: 613273 
-Processing record 170: La Ronge, ID: 6050066 
-Processing record 171: Dubbo, ID: 2168305 
-Processing record 172: Kieta, ID: 2094027 
-Processing record 173: Nchelenge, ID: 175499 
-Processing record 174: Yuncheng, ID: 1785738 
-Processing record 175: Port Macquarie, ID: 2152659 
-safaqis, tn not found. Skipping City...
-Processing record 176: Khorixas, ID: 3356213 
-Processing record 177: Arraial do Cabo, ID: 3471451 
-Processing record 178: Nemuro, ID: 2128975 
-haibowan, cn not found. Skipping City...
-Processing record 179: Chuy, ID: 3443061 
-Processing record 180: Trebukhiv, ID: 691336 
-grand centre, ca not found. Skipping City...
-Processing record 181: Vao, ID: 2137773 
-Processing record 182: Bredasdorp, ID: 1015776 
-Processing record 183: Atambua, ID: 1651103 
-Processing record 184: Nouadhibou, ID: 2377457 
-Processing record 185: Camocim, ID: 3403687 
-Processing record 186: Egvekinot, ID: 4031742 
-mys shmidta, ru not found. Skipping City...
-marathopolis, gr not found. Skipping City...
-Processing record 187: Joigny, ID: 3012319 
-Processing record 188: Sitka, ID: 4267710 
-Processing record 189: Tomatlan, ID: 3981391 
-Processing record 190: Almaznyy, ID: 582447 
-Processing record 191: Beberibe, ID: 3405924 
-Processing record 192: Ca Mau, ID: 1586443 
-Processing record 193: Pemberton, ID: 6100799 
-Processing record 194: Sao Joao da Barra, ID: 3448903 
-rolim de moura, br not found. Skipping City...
-Processing record 195: Popondetta, ID: 2088163 
-Processing record 196: Victoria, ID: 241131 
-Processing record 197: Peniche, ID: 2264923 
-umzimvubu, za not found. Skipping City...
-Processing record 198: Yarim, ID: 69559 
-Processing record 199: Clyde River, ID: 5924351 
-Processing record 200: Lagoa, ID: 2267254 
-Processing record 201: Bossangoa, ID: 2388036 
-Processing record 202: Caravelas, ID: 3466980 
-Processing record 203: Cabo San Lucas, ID: 3985710 
-Processing record 204: Les Trois-Ilets, ID: 3570396 
-Processing record 205: Nadym, ID: 1498087 
-Processing record 206: Russkaya Polyana, ID: 1493423 
-Processing record 207: Lavrentiya, ID: 4031637 
-Processing record 208: Kahului, ID: 5847411 
-Processing record 209: San Pedro de Macoris, ID: 3493032 
-Processing record 210: Taoudenni, ID: 2450173 
-Processing record 211: Geraldton, ID: 2070998 
-Processing record 212: Kholodnyy, ID: 2124611 
-Processing record 213: Zhanaozen, ID: 607610 
-Processing record 214: Dudinka, ID: 1507116 
-Processing record 215: Salinopolis, ID: 3389822 
-ginda, er not found. Skipping City...
-Processing record 216: Ornskoldsvik, ID: 2686469 
-Processing record 217: Vaniyambadi, ID: 1253437 
-Processing record 218: Altar, ID: 4018700 
-Processing record 219: Lebu, ID: 3883457 
-Processing record 220: Constitucion, ID: 4011743 
-Processing record 221: Santa Isabel do Rio Negro, ID: 3662489 
-Processing record 222: Zhangye, ID: 1785036 
-Processing record 223: Pullman, ID: 5807540 
-Processing record 224: Rio Cuarto, ID: 3838874 
-Processing record 225: Thompson, ID: 6165406 
-Processing record 226: Millinocket, ID: 4972220 
-Processing record 227: Boyabat, ID: 750468 
+Processing record 5: Lusambo, ID: 210379 
 airai, pw not found. Skipping City...
-Processing record 228: Talcahuano, ID: 3870282 
-Processing record 229: Raudeberg, ID: 3146487 
-Processing record 230: Narsaq, ID: 3421719 
-Processing record 231: Chama, ID: 920901 
-Processing record 232: Cockburn Town, ID: 3576994 
-Processing record 233: Cherskiy, ID: 2126199 
-Processing record 234: Verkhnyaya Toyma, ID: 474470 
-Processing record 235: Port-Gentil, ID: 2396518 
-Processing record 236: Ingham, ID: 2162737 
-Processing record 237: Tessalit, ID: 2449893 
-Processing record 238: Umm Kaddadah, ID: 364933 
-Processing record 239: Sheridan, ID: 5438542 
-Processing record 240: Casper, ID: 5820705 
-Processing record 241: Havre-Saint-Pierre, ID: 5972291 
-Processing record 242: Nikolskoye, ID: 546105 
-Processing record 243: Kushnarenkovo, ID: 538368 
-Processing record 244: Beloha, ID: 1067565 
-Processing record 245: Melilla, ID: 2513947 
-Processing record 246: Coquimbo, ID: 3893629 
-Processing record 247: Ramgarh, ID: 1258677 
-alotau, pg not found. Skipping City...
-palabuhanratu, id not found. Skipping City...
-Processing record 248: Port Arthur, ID: 4720039 
-Processing record 249: Labuhan, ID: 1641899 
-Processing record 250: Mahabad, ID: 125446 
-Processing record 251: Boden, ID: 606531 
-Processing record 252: Leningradskiy, ID: 2123814 
-artyk, ru not found. Skipping City...
-Processing record 253: Zhoucheng, ID: 6957977 
-Processing record 254: Prince Rupert, ID: 6113406 
-Processing record 255: Bundaberg, ID: 2173323 
-Processing record 256: Springbok, ID: 3361142 
-Processing record 257: Waipawa, ID: 2185329 
-Processing record 258: Muncar, ID: 1634718 
-Processing record 259: Walcz, ID: 3082704 
-Processing record 260: Nerchinskiy Zavod, ID: 2019323 
-Processing record 261: Ocos, ID: 3592086 
-Processing record 262: Adra, ID: 2522430 
-Processing record 263: San Jeronimo, ID: 3982846 
-Processing record 264: Palora, ID: 3653523 
-Processing record 265: Fortuna, ID: 5563839 
-Processing record 266: Davila, ID: 1715335 
-Processing record 267: Bronnoysund, ID: 3159954 
-Processing record 268: Jiexiu, ID: 1805833 
-Processing record 269: Dongsheng, ID: 1788268 
-belushya guba, ru not found. Skipping City...
-Processing record 270: Tabuk, ID: 101628 
-Processing record 271: Margate, ID: 978895 
-Processing record 272: Ixtapa, ID: 4004293 
-Processing record 273: Union, ID: 1685755 
-Processing record 274: Semnan, ID: 116402 
-ksenyevka, ru not found. Skipping City...
-Processing record 275: High Prairie, ID: 5975034 
-Processing record 276: Dali, ID: 1814093 
-Processing record 277: Wolfenbuttel, ID: 2806914 
-Processing record 278: Kostomuksha, ID: 543899 
-vaitupu, wf not found. Skipping City...
-khor, qa not found. Skipping City...
-Processing record 279: Sambava, ID: 1056899 
-Processing record 280: Saint-Philippe, ID: 935215 
-Processing record 281: Ilulissat, ID: 3423146 
-Processing record 282: Kungurtug, ID: 1501377 
-Processing record 283: Lang Son, ID: 1576633 
-Processing record 284: Aranos, ID: 3358666 
-Processing record 285: Lamu, ID: 189741 
-Processing record 286: Ambilobe, ID: 1082243 
-Processing record 287: Kampene, ID: 214575 
-Processing record 288: Shimanovsk, ID: 2016701 
-Processing record 289: Batagay-Alyta, ID: 2027042 
-Processing record 290: Ondjiva, ID: 3346821 
-Processing record 291: Kem, ID: 551145 
-Processing record 292: Esperance, ID: 2071860 
-Processing record 293: Chulman, ID: 2025261 
-Processing record 294: Siddipet, ID: 1256377 
-Processing record 295: Weligama, ID: 1223738 
-Processing record 296: Wageningen, ID: 3382783 
-Processing record 297: Tairua, ID: 2182010 
-Processing record 298: Cairns, ID: 2172797 
-Processing record 299: Erenhot, ID: 2037485 
-Processing record 300: Jamestown, ID: 5222866 
-akyab, mm not found. Skipping City...
-barentsburg, sj not found. Skipping City...
-Processing record 301: Steamboat Springs, ID: 5582371 
-Processing record 302: Guerrero Negro, ID: 4021858 
-Processing record 303: Algiers, ID: 2507480 
-Processing record 304: Goldsboro, ID: 4468261 
-Processing record 305: Cape Coast, ID: 2302357 
-raga, sd not found. Skipping City...
-Processing record 306: Kvarkeno, ID: 537541 
-Processing record 307: Luz, ID: 2264456 
-Processing record 308: Hidalgo, ID: 3995847 
-Processing record 309: Cherbourg, ID: 2972190 
-Processing record 310: Bauska, ID: 461114 
-Processing record 311: East London, ID: 1006984 
-Processing record 312: Ambanja, ID: 1083724 
-Processing record 313: Radhanpur, ID: 1259069 
-Processing record 314: Aksum, ID: 344420 
-Processing record 315: Eydhafushi, ID: 1337606 
-Processing record 316: Manono, ID: 209598 
-Processing record 317: The Valley, ID: 3573374 
-Processing record 318: Vigeland, ID: 3162955 
-Processing record 319: Arona, ID: 2521582 
-Processing record 320: Solano, ID: 3667868 
-Processing record 321: Souillac, ID: 933995 
-Processing record 322: Severo-Kurilsk, ID: 2121385 
-Processing record 323: Kaeo, ID: 2189343 
-Processing record 324: Sechura, ID: 3691954 
-Processing record 325: Miramar, ID: 4005539 
-Processing record 326: Halifax, ID: 6324729 
-Processing record 327: Ploemeur, ID: 2986732 
-Processing record 328: Wagga Wagga, ID: 2145110 
-Processing record 329: Nortelandia, ID: 3456248 
-zlatoustovsk, ru not found. Skipping City...
-Processing record 330: Constitucion, ID: 3893726 
-Processing record 331: Zhezkazgan, ID: 1516589 
-Processing record 332: Cajabamba, ID: 3699095 
-Processing record 333: Adrar, ID: 2508813 
-Processing record 334: San Ignacio, ID: 3692529 
-Processing record 335: Camabatela, ID: 2242885 
-Processing record 336: Pecos, ID: 5528182 
-Processing record 337: Mwense, ID: 902721 
-Processing record 338: Koslan, ID: 544084 
-Processing record 339: Portland, ID: 2152668 
-Processing record 340: Inuvik, ID: 5983607 
-Processing record 341: Nacogdoches, ID: 4713735 
-Processing record 342: Fort Nelson, ID: 5955902 
-Processing record 343: Basco, ID: 1726449 
-Processing record 344: Saskylakh, ID: 2017155 
-Processing record 345: Tutoia, ID: 3385899 
-Processing record 346: San Cristobal, ID: 3652567 
-yambio, sd not found. Skipping City...
-Processing record 347: Sanchursk, ID: 498877 
-Processing record 348: Andenes, ID: 3163146 
-Processing record 349: Srednekolymsk, ID: 2121025 
-Processing record 350: Muzhi, ID: 1498161 
-Processing record 351: Bambous Virieux, ID: 1106677 
-Processing record 352: Russell, ID: 2188874 
-Processing record 353: Inhambane, ID: 1045114 
-Processing record 354: Ciudad Bolivar, ID: 3645532 
-Processing record 355: Torre del Greco, ID: 3165456 
-Processing record 356: Ushtobe, ID: 1517637 
-Processing record 357: Harper, ID: 2276492 
-Processing record 358: Ahipara, ID: 2194098 
-Processing record 359: Tofield, ID: 6167254 
-Processing record 360: Hirara, ID: 1862505 
-Processing record 361: Tadine, ID: 2138285 
-Processing record 362: Duncan, ID: 4535389 
-Processing record 363: Mulege, ID: 3995236 
-Processing record 364: Cocal, ID: 3402050 
-Processing record 365: Farmington, ID: 5467328 
-Processing record 366: Necochea, ID: 3430443 
-Processing record 367: Mikkeli, ID: 646006 
-Processing record 368: Samarai, ID: 2132606 
-Processing record 369: Nakanojo, ID: 1855852 
-Processing record 370: Haines Junction, ID: 5969025 
-Processing record 371: Northam, ID: 2064550 
-Processing record 372: Westport, ID: 2206900 
-Processing record 373: Adre, ID: 245669 
-Processing record 374: Da Lat, ID: 1584071 
-acarau, br not found. Skipping City...
-Processing record 375: Naze, ID: 1855540 
-Processing record 376: Wamba, ID: 204318 
-Processing record 377: Mogadishu, ID: 53654 
-Processing record 378: Mitu, ID: 3674676 
-Processing record 379: Padang, ID: 1633419 
+Processing record 6: Ushuaia, ID: 3833367 
+Processing record 7: Dikson, ID: 1507390 
+Processing record 8: Atuona, ID: 4020109 
+Processing record 9: Geraldton, ID: 2070998 
+Processing record 10: Rikitea, ID: 4030556 
+yaan, cn not found. Skipping City...
+Processing record 11: Hithadhoo, ID: 1282256 
+Processing record 12: Kapaa, ID: 5848280 
+Processing record 13: Guatire, ID: 3639898 
+Processing record 14: Fortuna, ID: 5563839 
+Processing record 15: Khatanga, ID: 2022572 
+Processing record 16: Karratha, ID: 6620339 
+Processing record 17: Sao Gabriel da Cachoeira, ID: 3662342 
 lolua, tv not found. Skipping City...
-Processing record 380: Rudbar, ID: 1128239 
-Processing record 381: Korla, ID: 1529376 
-Processing record 382: Sarangani, ID: 1687186 
-Processing record 383: Pankovka, ID: 512817 
-Processing record 384: Maniitsoq, ID: 3421982 
-tukrah, ly not found. Skipping City...
-Processing record 385: Tulnici, ID: 664507 
-Processing record 386: Hobyo, ID: 57000 
-Processing record 387: Salalah, ID: 286621 
-Processing record 388: Myanaung, ID: 1308204 
-Processing record 389: Mahanoro, ID: 1062553 
-Processing record 390: Lagoa Formosa, ID: 3459181 
-Processing record 391: Dingle, ID: 2964782 
+Processing record 18: Korla, ID: 1529376 
+illoqqortoormiut, gl not found. Skipping City...
+asau, tv not found. Skipping City...
+Processing record 19: Esperance, ID: 2071860 
+Processing record 20: Chimoio, ID: 1049261 
+Processing record 21: Hobart, ID: 2163355 
+belushya guba, ru not found. Skipping City...
+Processing record 22: Qaqortoq, ID: 3420846 
+Processing record 23: Haileybury, ID: 5968992 
+Processing record 24: Vaini, ID: 4032243 
+Processing record 25: Delijan, ID: 136399 
+Processing record 26: Trelew, ID: 3833883 
 codrington, ag not found. Skipping City...
-Processing record 392: Berlevag, ID: 780687 
-Processing record 393: Batsfjord, ID: 780717 
-arkhangelos, gr not found. Skipping City...
-Processing record 394: Meulaboh, ID: 1214488 
-Processing record 395: Oranjemund, ID: 3354071 
-Processing record 396: Kudymkar, ID: 539817 
-Processing record 397: Kyren, ID: 2021031 
-Processing record 398: Lloret de Mar, ID: 3118212 
-Processing record 399: Deulgaon Raja, ID: 1273136 
-bereda, so not found. Skipping City...
-Processing record 400: Les Cayes, ID: 3728097 
-sataua, ws not found. Skipping City...
-Processing record 401: Mahebourg, ID: 934322 
-Processing record 402: Anyang, ID: 1785294 
-Processing record 403: Uplawmoor, ID: 2648579 
-Processing record 404: Paramonga, ID: 3933024 
-Processing record 405: Sandeid, ID: 3158015 
-Processing record 406: Puerto Colombia, ID: 3671497 
-Processing record 407: Quelimane, ID: 1028434 
-Processing record 408: Hay River, ID: 5972762 
-Processing record 409: Oksfjord, ID: 778362 
-Processing record 410: Nawa, ID: 166365 
-lata, sb not found. Skipping City...
-Processing record 411: Senanga, ID: 898947 
-Processing record 412: Elban, ID: 2024449 
-Processing record 413: Biala Podlaska, ID: 776175 
-Processing record 414: Alofi, ID: 4036284 
-Processing record 415: Marfino, ID: 503977 
-Processing record 416: Sterling, ID: 4787534 
-Processing record 417: Sao Gabriel da Cachoeira, ID: 3662342 
-Processing record 418: Pandaria, ID: 1260556 
-Processing record 419: Havelock, ID: 4470244 
-Processing record 420: Jeremoabo, ID: 3459922 
-Processing record 421: Hasaki, ID: 2112802 
-Processing record 422: Husavik, ID: 2629833 
-Processing record 423: Izmir, ID: 311046 
-Processing record 424: Georgetown, ID: 2411397 
-Processing record 425: Zalantun, ID: 2033225 
-Processing record 426: Orotina, ID: 3622660 
-Processing record 427: Saint-Michel-des-Saints, ID: 6138802 
-mergui, mm not found. Skipping City...
-Processing record 428: Aklavik, ID: 5882953 
-Processing record 429: Maumere, ID: 1635815 
-Processing record 430: Poum, ID: 2138555 
-Processing record 431: Zhigansk, ID: 2012530 
-Processing record 432: Matay, ID: 352628 
-Processing record 433: Honningsvag, ID: 779554 
-gilazi, az not found. Skipping City...
-Processing record 434: Coihaique, ID: 3894426 
-Processing record 435: Acajutla, ID: 3587498 
-Processing record 436: Panguna, ID: 2088659 
-kollumerland, nl not found. Skipping City...
-Processing record 437: Kirakira, ID: 2178753 
-Processing record 438: Ampanihy, ID: 1078553 
-Processing record 439: Vilhena, ID: 3924679 
-Processing record 440: Piacabucu, ID: 3454005 
-Processing record 441: Aldan, ID: 2027968 
-Processing record 442: Pacific Grove, ID: 5380437 
-Processing record 443: Bakal, ID: 579738 
-Processing record 444: Ukiah, ID: 5404476 
-Processing record 445: Aykhal, ID: 2027296 
-Processing record 446: Mamallapuram, ID: 1263997 
-Processing record 447: Slupsk, ID: 3085450 
-Processing record 448: Stornoway, ID: 2636790 
-Processing record 449: Freeport, ID: 4893171 
-Processing record 450: Grand Gaube, ID: 934479 
-Processing record 451: Ouegoa, ID: 2139259 
-Processing record 452: Mugur-Aksy, ID: 1498283 
-Processing record 453: Charlestown, ID: 3575479 
-Processing record 454: Batticaloa, ID: 1250161 
-Processing record 455: Klaksvik, ID: 2618795 
-Processing record 456: Boa Vista, ID: 3664980 
-Processing record 457: Richards Bay, ID: 962367 
-Processing record 458: Saraland, ID: 4088628 
-Processing record 459: Baghdad, ID: 98182 
-Processing record 460: Alyangula, ID: 2079582 
-Processing record 461: Teahupoo, ID: 4033543 
-Processing record 462: Jati, ID: 1176048 
-Processing record 463: Cadillac, ID: 4987617 
-Processing record 464: Nyakabindi, ID: 151266 
-Processing record 465: Winslow, ID: 5321473 
-Processing record 466: Taman, ID: 484670 
-Processing record 467: Birjand, ID: 140463 
-Processing record 468: Mujiayingzi, ID: 2035707 
-Processing record 469: Nishihara, ID: 1850144 
-Processing record 470: Kathu, ID: 1153035 
-Processing record 471: Severo-Yeniseyskiy, ID: 1492566 
-Processing record 472: Severomorsk, ID: 496278 
-Processing record 473: Guilin, ID: 1809498 
-Processing record 474: Lillooet, ID: 6945979 
-Processing record 475: Gallup, ID: 5468773 
-Processing record 476: Saint John, ID: 6138517 
-Processing record 477: Bonthe, ID: 2409914 
-Processing record 478: Makokou, ID: 2399371 
-Processing record 479: Opovo, ID: 787461 
-Processing record 480: Zhanakorgan, ID: 1517323 
-Processing record 481: Vestmannaeyjar, ID: 3412093 
-Processing record 482: Ellisras, ID: 1005768 
-Processing record 483: Sao Filipe, ID: 3374210 
-Processing record 484: Beya, ID: 1510131 
-Processing record 485: Porto Walter, ID: 3662761 
-toliary, mg not found. Skipping City...
-Processing record 486: Petropavlovsk-Kamchatskiy, ID: 2122104 
-Processing record 487: Langsa, ID: 1214724 
-cazaje, ao not found. Skipping City...
-Processing record 488: Ucluelet, ID: 6171633 
-Processing record 489: Tura, ID: 2014833 
-Processing record 490: Koboko, ID: 230725 
-Processing record 491: Tashtyp, ID: 1490036 
-Processing record 492: Hanzhong, ID: 1808857 
-idar, in not found. Skipping City...
-Processing record 493: Thinadhoo, ID: 1337610 
-Processing record 494: Nantucket, ID: 4944903 
-Processing record 495: Yebaishou, ID: 2033423 
-Processing record 496: Lorengau, ID: 2092164 
-Processing record 497: Massakory, ID: 2428228 
-viligili, mv not found. Skipping City...
-Processing record 498: Camacha, ID: 2270385 
-Processing record 499: Paamiut, ID: 3421193 
-Processing record 500: Port Blair, ID: 1259385 
-Processing record 501: Los Llanos de Aridane, ID: 2514651 
-Processing record 502: Tres Arroyos, ID: 3833859 
-westpunt, an not found. Skipping City...
-Processing record 503: Nefteyugansk, ID: 1497917 
+Processing record 27: New Norfolk, ID: 2155415 
+Processing record 28: Port Keats, ID: 2063039 
+Processing record 29: Punta Arenas, ID: 3874787 
+Processing record 30: Torbay, ID: 6167817 
+hihifo, to not found. Skipping City...
+Processing record 31: Bredasdorp, ID: 1015776 
+Processing record 32: Busselton, ID: 2075265 
+Processing record 33: Qaanaaq, ID: 3831208 
+Processing record 34: Avarua, ID: 4035715 
+Processing record 35: Nyimba, ID: 900056 
+barentsburg, sj not found. Skipping City...
+attawapiskat, ca not found. Skipping City...
+Processing record 36: Clyde River, ID: 5924351 
+Processing record 37: Novyy Urengoy, ID: 1496511 
+Processing record 38: Sihor, ID: 1256343 
+Processing record 39: Puerto Escondido, ID: 3520994 
+Processing record 40: Te Anau, ID: 2181625 
+Processing record 41: Paamiut, ID: 3421193 
+Processing record 42: Victoria, ID: 241131 
+Processing record 43: Adrar, ID: 2508813 
+taolanaro, mg not found. Skipping City...
+ormos korthiou, gr not found. Skipping City...
+Processing record 44: Bluff, ID: 2206939 
+Processing record 45: Fairbanks, ID: 5861897 
+kuytun, cn not found. Skipping City...
 bolungarvik, is not found. Skipping City...
-Processing record 504: Gebze, ID: 747014 
-Processing record 505: Izumo, ID: 1861084 
-Processing record 506: Hualmay, ID: 3939761 
-Processing record 507: Calmar, ID: 5913601 
-Processing record 508: Praia, ID: 3374333 
-Processing record 509: Caconda, ID: 3351380 
-Processing record 510: Kazachinskoye, ID: 1504075 
-jiddah, sa not found. Skipping City...
-Processing record 511: Shache, ID: 1280037 
-Processing record 512: Djambala, ID: 2260401 
-Processing record 513: Redcar, ID: 2639563 
-Processing record 514: Yulara, ID: 6355222 
-Processing record 515: Lufilufi, ID: 4035249 
-Processing record 516: West Monroe, ID: 4345850 
-Processing record 517: Queanbeyan, ID: 2152286 
-Processing record 518: Conde, ID: 3465713 
-Processing record 519: Kavaratti, ID: 1267390 
-buin, pg not found. Skipping City...
-Processing record 520: Manyana, ID: 933018 
-Processing record 521: Longyearbyen, ID: 2729907 
-Processing record 522: Teya, ID: 1489656 
-Processing record 523: Ustka, ID: 3082756 
-Processing record 524: Balabac, ID: 1728675 
-Processing record 525: Wahpeton, ID: 5062355 
-Processing record 526: Yokadouma, ID: 2220853 
-Processing record 527: Erdenet, ID: 2031405 
-Processing record 528: Udachnyy, ID: 2014624 
-Processing record 529: Laibin, ID: 1804609 
-Processing record 530: Palapye, ID: 933182 
-Processing record 531: Khuzhir, ID: 2022143 
-Processing record 532: Karratha, ID: 6620339 
-Processing record 533: Touros, ID: 3386213 
-Processing record 534: Camapua, ID: 3468020 
-Processing record 535: Sistranda, ID: 3139597 
-Processing record 536: Tirano, ID: 3165647 
-Processing record 537: Ventspils, ID: 454310 
-usva, ru not found. Skipping City...
-Processing record 538: Shishou, ID: 1788268 
-Processing record 539: Lokosovo, ID: 1500399 
-Processing record 540: Sola, ID: 2134814 
-Processing record 541: Tra Vinh, ID: 1563926 
-Processing record 542: Puerto del Rosario, ID: 2512186 
-Processing record 543: Hopkinsville, ID: 4295251 
-Processing record 544: Feijo, ID: 3664243 
-Processing record 545: Bathsheba, ID: 3374083 
-Processing record 546: Buala, ID: 2109528 
-Processing record 547: Sabha, ID: 247176 
-Processing record 548: Heilbron, ID: 997140 
-Processing record 549: Ottawa, ID: 4276816 
-Processing record 550: Moerai, ID: 4034188 
-Processing record 551: Salinas, ID: 3655673 
-Processing record 552: Asyut, ID: 359783 
-Processing record 553: Lar, ID: 133595 
-Processing record 554: Resende, ID: 3451668 
-Processing record 555: Gravdal, ID: 3147822 
-Processing record 556: Orel-Izumrud, ID: 803494 
-Processing record 557: Jimo, ID: 1805757 
-Processing record 558: Brae, ID: 2654970 
-Processing record 559: Endicott, ID: 5116602 
-Processing record 560: Korsakovo, ID: 544440 
-Processing record 561: Mareeba, ID: 2158767 
-Processing record 562: Vagay, ID: 1487860 
-Processing record 563: Portalegre, ID: 2264508 
-Processing record 564: Rorvik, ID: 3141310 
-Processing record 565: Barra Patuca, ID: 3614835 
-Processing record 566: Kargopol, ID: 552465 
-Processing record 567: Dukat, ID: 2125906 
-Processing record 568: Pakokku, ID: 1302439 
-Processing record 569: Sharjah, ID: 292672 
-Processing record 570: Yazd, ID: 111822 
-Processing record 571: Dhrangadhra, ID: 1272701 
-Processing record 572: Mocuba, ID: 1024312 
-Processing record 573: Grindavik, ID: 3416888 
-Processing record 574: Bafoulabe, ID: 2460755 
-Processing record 575: Sur, ID: 286245 
-Processing record 576: Nador, ID: 2541479 
+Processing record 46: Provideniya, ID: 4031574 
+Processing record 47: Porto Novo, ID: 3374336 
+Processing record 48: Saint-Philippe, ID: 935215 
+Processing record 49: Ponta do Sol, ID: 3374346 
+Processing record 50: Jamestown, ID: 3370903 
+Processing record 51: Moroni, ID: 921772 
+Processing record 52: Polunochnoye, ID: 1494482 
+Processing record 53: Gwanda, ID: 890516 
+Processing record 54: Port Hawkesbury, ID: 6111867 
+Processing record 55: Kruisfontein, ID: 986717 
+Processing record 56: Rapid Valley, ID: 5768244 
+Processing record 57: Iaciara, ID: 3461641 
+Processing record 58: Kaeo, ID: 2189343 
+Processing record 59: Tazovskiy, ID: 1489853 
+pemangkat, id not found. Skipping City...
+Processing record 60: Mar del Plata, ID: 3863379 
+Processing record 61: Matagami, ID: 6067747 
+Processing record 62: Dingle, ID: 2964782 
+Processing record 63: Roald, ID: 3141667 
+Processing record 64: Yulara, ID: 6355222 
+samusu, ws not found. Skipping City...
+Processing record 65: Kavieng, ID: 2094342 
+Processing record 66: Tasiilaq, ID: 3424607 
+Processing record 67: Fianarantsoa, ID: 1064890 
+Processing record 68: Chuy, ID: 3443061 
+Processing record 69: Puerto Suarez, ID: 3465342 
+Processing record 70: Mapimi, ID: 3996647 
+Processing record 71: Albany, ID: 2077963 
+Processing record 72: Saldanha, ID: 3361934 
+Processing record 73: Georgetown, ID: 2411397 
+Processing record 74: Kovdor, ID: 543508 
+Processing record 75: Kitimat, ID: 5993072 
+Processing record 76: Half Moon Bay, ID: 5354943 
+Processing record 77: Hilo, ID: 5855927 
+Processing record 78: Mandera, ID: 187896 
+Processing record 79: Novoagansk, ID: 1497210 
+Processing record 80: Chapais, ID: 5919850 
+Processing record 81: Constitucion, ID: 4011743 
+Processing record 82: Eureka, ID: 5563397 
+Processing record 83: Kaitangata, ID: 2208248 
+Processing record 84: Santiago, ID: 3929051 
+gat, ly not found. Skipping City...
+Processing record 85: Mehriz, ID: 124274 
+Processing record 86: Tuktoyaktuk, ID: 6170031 
+Processing record 87: Puerto Ayora, ID: 3652764 
+Processing record 88: Hermanus, ID: 3366880 
+Processing record 89: Atar, ID: 2381334 
+Processing record 90: Kavaratti, ID: 1267390 
+Processing record 91: Butaritari, ID: 2110227 
+Processing record 92: Henties Bay, ID: 3356832 
+Processing record 93: Ilulissat, ID: 3423146 
+ji-parana, br not found. Skipping City...
+santarem, br not found. Skipping City...
+Processing record 94: Mezen, ID: 527321 
+Processing record 95: Aksarka, ID: 1512019 
+Processing record 96: Liwale, ID: 155921 
+Processing record 97: Thompson, ID: 6165406 
+guajara-mirim, br not found. Skipping City...
+Processing record 98: Zhuanghe, ID: 1784055 
+Processing record 99: Lazaro Cardenas, ID: 3996234 
+Processing record 100: East London, ID: 1006984 
+Processing record 101: Alindao, ID: 240999 
+Processing record 102: Richards Bay, ID: 962367 
+Processing record 103: Vandra, ID: 587440 
+vaitupu, wf not found. Skipping City...
+Processing record 104: La Union, ID: 2515151 
+Processing record 105: Baruun-Urt, ID: 2032614 
+tumannyy, ru not found. Skipping City...
+Processing record 106: Port Alfred, ID: 964432 
+Processing record 107: Husavik, ID: 2629833 
+Processing record 108: Upernavik, ID: 3418910 
+Processing record 109: Oktyabrskiy, ID: 515873 
+Processing record 110: Gushikawa, ID: 1863495 
+Processing record 111: Whyalla, ID: 2058430 
+Processing record 112: Saskylakh, ID: 2017155 
+Processing record 113: Faanui, ID: 4034551 
+Processing record 114: Hanzhong, ID: 1808857 
+Processing record 115: Smiltene, ID: 455406 
+Processing record 116: Ekimchan, ID: 2024461 
+Processing record 117: Coquimbo, ID: 3893629 
+labutta, mm not found. Skipping City...
+Processing record 118: Zaporizhzhya, ID: 687700 
+Processing record 119: Lebu, ID: 3883457 
+bargal, so not found. Skipping City...
+Processing record 120: Loikaw, ID: 1313479 
+Processing record 121: Saiha, ID: 1257771 
+Processing record 122: Mahebourg, ID: 934322 
+Processing record 123: San Vicente, ID: 3428067 
+Processing record 124: Pathein, ID: 1328421 
+Processing record 125: Nchelenge, ID: 175499 
+Processing record 126: Nikolskoye, ID: 546105 
+Processing record 127: Houma, ID: 4328010 
+Processing record 128: Acapulco, ID: 3533462 
+Processing record 129: Lorengau, ID: 2092164 
+Processing record 130: Talcahuano, ID: 3870282 
+Processing record 131: Magan, ID: 2020595 
+Processing record 132: Zhangye, ID: 1785036 
+Processing record 133: Anori, ID: 3665315 
+Processing record 134: Klaksvik, ID: 2618795 
+Processing record 135: Cape Town, ID: 3369157 
+Processing record 136: Nhulunbuy, ID: 2064735 
+galgani, sd not found. Skipping City...
+Processing record 137: Ouallam, ID: 2440371 
+Processing record 138: Vadso, ID: 777073 
+Processing record 139: Pandan, ID: 1695555 
+Processing record 140: Pangnirtung, ID: 6096551 
+Processing record 141: Iqaluit, ID: 5983720 
+Processing record 142: Shelburne, ID: 6145890 
+Processing record 143: Talnakh, ID: 1490256 
+Processing record 144: Huron, ID: 5228673 
+Processing record 145: Teaca, ID: 665371 
+Processing record 146: Besleney, ID: 576695 
+Processing record 147: Balagansk, ID: 2027198 
+Processing record 148: Saint-Augustin, ID: 6138501 
+Processing record 149: Lagoa, ID: 2267254 
+jibuti, dj not found. Skipping City...
+mys shmidta, ru not found. Skipping City...
+Processing record 150: Harlingen, ID: 2754817 
+Processing record 151: Severo-Kurilsk, ID: 2121385 
+khani, ru not found. Skipping City...
+Processing record 152: Kailua, ID: 5847486 
+Processing record 153: Zyryanskoye, ID: 1484892 
+Processing record 154: Marsh Harbour, ID: 3571913 
+Processing record 155: Baft, ID: 390054 
+Processing record 156: Buala, ID: 2109528 
+Processing record 157: Hwange, ID: 889942 
+Processing record 158: Yellowknife, ID: 6185377 
+Processing record 159: Manaus, ID: 3663517 
+Processing record 160: Palana, ID: 2122262 
+Processing record 161: Mecca, ID: 104515 
+Processing record 162: Bubaque, ID: 2374583 
+Processing record 163: Barrow, ID: 4252975 
+Processing record 164: Sitka, ID: 4267710 
+Processing record 165: Handan, ID: 1808963 
+Processing record 166: Debre Tabor, ID: 339686 
+Processing record 167: Hammerfest, ID: 779683 
+Processing record 168: Egvekinot, ID: 4031742 
+Processing record 169: Carnarvon, ID: 2074865 
+Processing record 170: Pisco, ID: 3932145 
+Processing record 171: Garcia Hernandez, ID: 1713185 
+Processing record 172: Merauke, ID: 2082539 
+Processing record 173: Barranca, ID: 3946820 
+Processing record 174: Tarata, ID: 3927774 
+Processing record 175: Norman Wells, ID: 6089245 
+grand river south east, mu not found. Skipping City...
+Processing record 176: Bethel, ID: 5880568 
+Processing record 177: San Jeronimo, ID: 3982846 
+Processing record 178: Terre Haute, ID: 4265737 
+tsihombe, mg not found. Skipping City...
+Processing record 179: Plettenberg Bay, ID: 964712 
+Processing record 180: Acajutla, ID: 3587498 
+Processing record 181: Ribeira Grande, ID: 3372707 
+Processing record 182: Hervey Bay, ID: 2146219 
+Processing record 183: Yantal, ID: 2055868 
+Processing record 184: Palu, ID: 1633034 
+Processing record 185: Coruripe, ID: 3465329 
+Processing record 186: Volsk, ID: 472278 
+Processing record 187: Mercedes, ID: 3430709 
+Processing record 188: Tuatapere, ID: 2180815 
+Processing record 189: Vila Velha, ID: 6320062 
+Processing record 190: Nokaneng, ID: 933211 
+Processing record 191: Manicore, ID: 3663503 
+Processing record 192: Governador Valadares, ID: 3462315 
+Processing record 193: Orange Park, ID: 4167102 
+saleaula, ws not found. Skipping City...
+Processing record 194: Labuan, ID: 1734240 
+freetown, ag not found. Skipping City...
+Processing record 195: Ancud, ID: 3899695 
+Processing record 196: Vung Tau, ID: 1562414 
+artyk, ru not found. Skipping City...
+Processing record 197: Chifeng, ID: 2038067 
+Processing record 198: Niquelandia, ID: 3456285 
+Processing record 199: Touros, ID: 3386213 
+Processing record 200: Hambantota, ID: 1244926 
+Processing record 201: Lewistown, ID: 4899665 
+Processing record 202: Yerbogachen, ID: 2012956 
+Processing record 203: Port Elizabeth, ID: 964420 
+Processing record 204: Hoshangabad, ID: 1269939 
+atlantic city, us not found. Skipping City...
+Processing record 205: Frankfort, ID: 4292188 
+Processing record 206: Umm Lajj, ID: 100926 
+Processing record 207: Sayyan, ID: 70979 
+Processing record 208: Tumbagaan, ID: 1680745 
+Processing record 209: Shenjiamen, ID: 1795632 
+Processing record 210: Longyearbyen, ID: 2729907 
+Processing record 211: Port Blair, ID: 1259385 
+Processing record 212: Oktyabrskoye, ID: 1511846 
+faya, td not found. Skipping City...
+Processing record 213: Sulangan, ID: 1685422 
+Processing record 214: Kokopo, ID: 2093685 
+Processing record 215: Pevek, ID: 2122090 
+Processing record 216: Tel Aviv-Yafo, ID: 293396 
+Processing record 217: Los Llanos de Aridane, ID: 2514651 
+Processing record 218: Fevik, ID: 3157679 
+Processing record 219: Cairns, ID: 2172797 
+Processing record 220: Broome, ID: 2075720 
+Processing record 221: Chokurdakh, ID: 2126123 
+Processing record 222: Kodiak, ID: 4407665 
+Processing record 223: Margate, ID: 978895 
+Processing record 224: Okhotsk, ID: 2122605 
+kuche, cn not found. Skipping City...
+tucuma, br not found. Skipping City...
+nizhneyansk, ru not found. Skipping City...
+Processing record 225: Preobrazheniye, ID: 2017658 
+Processing record 226: Longyan, ID: 1802276 
+Processing record 227: Nara, ID: 6779095 
+Processing record 228: Shar, ID: 1519275 
+Processing record 229: Khash, ID: 1160571 
+Processing record 230: Povenets, ID: 505820 
+yunjinghong, cn not found. Skipping City...
+Processing record 231: Eyl, ID: 60019 
+Processing record 232: Oranjemund, ID: 3354071 
+Processing record 233: Guerrero Negro, ID: 4021858 
+Processing record 234: Ulladulla, ID: 2145554 
+Processing record 235: Tabuk, ID: 101628 
+Processing record 236: Kloulklubed, ID: 7671223 
+Processing record 237: Arraial do Cabo, ID: 3471451 
+Processing record 238: Kudahuvadhoo, ID: 1337607 
+Processing record 239: Iquique, ID: 3887127 
+Processing record 240: Kommunar, ID: 545788 
+Processing record 241: San Carlos de Bariloche, ID: 7647007 
+Processing record 242: Livingstonia, ID: 927856 
+Processing record 243: Paracuru, ID: 3393115 
+Processing record 244: Kawalu, ID: 1640902 
+Processing record 245: Sola, ID: 2134814 
+Processing record 246: Shingu, ID: 1847947 
+Processing record 247: Namibe, ID: 3347019 
+Processing record 248: Gijon, ID: 3121424 
+Processing record 249: Lavrentiya, ID: 4031637 
+avera, pf not found. Skipping City...
+Processing record 250: Katobu, ID: 1640972 
+Processing record 251: Taunggyi, ID: 1293960 
+Processing record 252: Sao Joao da Barra, ID: 3448903 
+Processing record 253: Redwater, ID: 6118787 
+Processing record 254: Dinghai, ID: 1812805 
+marcona, pe not found. Skipping City...
+Processing record 255: Luorong, ID: 1801850 
+Processing record 256: Mbandaka, ID: 2312895 
+Processing record 257: Port Hedland, ID: 2063042 
+Processing record 258: Namatanai, ID: 2090021 
+Processing record 259: Itapirapua, ID: 3460697 
+formoso do araguaia, br not found. Skipping City...
+Processing record 260: Vila Franca do Campo, ID: 3372472 
+Processing record 261: Saint-Francois, ID: 3578441 
+Processing record 262: Castro, ID: 3896218 
+Processing record 263: College, ID: 5859699 
+skalistyy, ru not found. Skipping City...
+Processing record 264: Pak Phanang, ID: 1608033 
+Processing record 265: Ariquemes, ID: 3665199 
+Processing record 266: Svetlaya, ID: 2015852 
+Processing record 267: Wenling, ID: 1791464 
+Processing record 268: Aasiaat, ID: 3424901 
+san quintin, mx not found. Skipping City...
+Processing record 269: Villa Union, ID: 3980125 
+Processing record 270: Altay, ID: 1529651 
+Processing record 271: Christchurch, ID: 2192362 
+Processing record 272: Kant, ID: 1528193 
+Processing record 273: Dois Vizinhos, ID: 3464579 
+Processing record 274: Havre-Saint-Pierre, ID: 5972291 
+cagayan de tawi-tawi, ph not found. Skipping City...
+Processing record 275: Roma, ID: 2151187 
+Processing record 276: Santa Cruz, ID: 3621607 
+Processing record 277: Itarema, ID: 3393692 
+Processing record 278: Mwinilunga, ID: 902620 
+Processing record 279: Katsuura, ID: 1865309 
+Processing record 280: San Andres, ID: 7522928 
+Processing record 281: Hasaki, ID: 2112802 
+Processing record 282: Manakara, ID: 1061605 
+Processing record 283: Huanta, ID: 3939386 
+palabuhanratu, id not found. Skipping City...
+Processing record 284: Wanganui, ID: 2179670 
+Processing record 285: Urengoy, ID: 1488414 
+Processing record 286: Bambous Virieux, ID: 1106677 
+Processing record 287: Bambanglipuro, ID: 1650434 
+Processing record 288: Hamilton, ID: 3573197 
+Processing record 289: Kahului, ID: 5847411 
+Processing record 290: Muros, ID: 3115824 
+Processing record 291: Keti Bandar, ID: 1174451 
+Processing record 292: Tomatlan, ID: 3981391 
+Processing record 293: Fort Madison, ID: 4857507 
+Processing record 294: Mundo Nuevo, ID: 3530517 
+Processing record 295: Buraydah, ID: 107304 
+Processing record 296: Riyadh, ID: 108410 
+Processing record 297: Zyryanka, ID: 2119283 
+Processing record 298: Pacific Grove, ID: 5380437 
+Processing record 299: Bharatpur, ID: 1283613 
+Processing record 300: Deputatskiy, ID: 2028164 
+Processing record 301: Taraz, ID: 1516905 
+Processing record 302: Pringsewu, ID: 1630639 
+Processing record 303: Natal, ID: 3394023 
+bengkulu, id not found. Skipping City...
+Processing record 304: Agadir, ID: 2561668 
+galiwinku, au not found. Skipping City...
+Processing record 305: Bend, ID: 5713587 
+Processing record 306: Menongue, ID: 3347353 
+Processing record 307: Linxia, ID: 1803331 
+Processing record 308: Les Cayes, ID: 3728097 
+kushmurun, kz not found. Skipping City...
+Processing record 309: Masuguru, ID: 878054 
+lasa, cn not found. Skipping City...
+Processing record 310: Tondela, ID: 2733533 
+Processing record 311: Lengshuitan, ID: 1804162 
+Processing record 312: Wingham, ID: 6183141 
+rajauri, in not found. Skipping City...
+Processing record 313: Chicama, ID: 3698359 
+Processing record 314: Alofi, ID: 4036284 
+Processing record 315: Luderitz, ID: 3355672 
+Processing record 316: Yabassi, ID: 2221046 
+deh rawud, af not found. Skipping City...
+ijaki, ki not found. Skipping City...
+Processing record 317: Iberia, ID: 3938531 
+Processing record 318: Kinshasa, ID: 2314302 
+sentyabrskiy, ru not found. Skipping City...
+Processing record 319: Kiunga, ID: 2093846 
+Processing record 320: Sangar, ID: 2017215 
+Processing record 321: Shagonar, ID: 1492499 
+Processing record 322: Eten, ID: 3697083 
+Processing record 323: Channel-Port aux Basques, ID: 5919815 
+Processing record 324: Luis Correia, ID: 3396121 
+Processing record 325: Saint-Paul, ID: 935221 
+Processing record 326: Praia da Vitoria, ID: 3372760 
+Processing record 327: Souillac, ID: 933995 
+Processing record 328: Jucurutu, ID: 3397108 
+Processing record 329: Cabo San Lucas, ID: 3985710 
+Processing record 330: Port Macquarie, ID: 2152659 
+Processing record 331: Raudeberg, ID: 3146487 
+Processing record 332: Parfenyevo, ID: 512576 
+Processing record 333: Bandarbeyla, ID: 64814 
+Processing record 334: Sahuaripa, ID: 3988265 
+Processing record 335: Beloha, ID: 1067565 
+Processing record 336: Charters Towers, ID: 2171722 
+vedaranniyam, in not found. Skipping City...
+Processing record 337: Stokmarknes, ID: 3136690 
+Processing record 338: Roebourne, ID: 2062276 
+Processing record 339: Samastipur, ID: 1257551 
+Processing record 340: Tura, ID: 2014833 
+Processing record 341: Ambon, ID: 1651531 
+Processing record 342: Dubbo, ID: 2168305 
+Processing record 343: Road Town, ID: 3577430 
+Processing record 344: Diego de Almagro, ID: 3892454 
+Processing record 345: Churapcha, ID: 2025241 
+Processing record 346: Leningradskiy, ID: 2123814 
+kralendijk, an not found. Skipping City...
+Processing record 347: Canchungo, ID: 2373951 
+Processing record 348: San Patricio, ID: 3985168 
+Processing record 349: Lotoshino, ID: 533975 
+Processing record 350: Hirado, ID: 1862555 
+Processing record 351: Sabang, ID: 1623502 
+Processing record 352: Timra, ID: 2669047 
+Processing record 353: Ust-Maya, ID: 2013918 
+Processing record 354: Wodonga, ID: 2143285 
+Processing record 355: Galesong, ID: 1644605 
+Processing record 356: Altamira, ID: 3407882 
+Processing record 357: Luwuk, ID: 1637001 
+Processing record 358: Moron, ID: 2029947 
+Processing record 359: Karasjok, ID: 779350 
+Processing record 360: La Ronge, ID: 6050066 
+Processing record 361: Burnie, ID: 2173125 
+laguna, br not found. Skipping City...
+urumqi, cn not found. Skipping City...
+Processing record 362: Dandong, ID: 2037886 
+Processing record 363: Aklavik, ID: 5882953 
+Processing record 364: Luganville, ID: 2136150 
+Processing record 365: Narsaq, ID: 3421719 
+Processing record 366: Kathua, ID: 1267486 
+Processing record 367: Berlevag, ID: 780687 
+Processing record 368: Sechura, ID: 3691954 
+Processing record 369: Vrangel, ID: 2013258 
+umzimvubu, za not found. Skipping City...
+Processing record 370: Ola, ID: 2122574 
+Processing record 371: Cherskiy, ID: 2126199 
+Processing record 372: Komsomolskiy, ID: 1486910 
+Processing record 373: Tessalit, ID: 2449893 
+Processing record 374: Waingapu, ID: 1622318 
+Processing record 375: Vostok, ID: 2013279 
+Processing record 376: Pahrump, ID: 5509851 
+sakakah, sa not found. Skipping City...
+Processing record 377: Maldonado, ID: 3441894 
+baboua, cf not found. Skipping City...
+Processing record 378: Hualmay, ID: 3939761 
+abu jubayhah, sd not found. Skipping City...
+panagjuriste, bg not found. Skipping City...
+Processing record 379: Ust-Koksa, ID: 1488167 
+Processing record 380: Labelle, ID: 5994763 
+Processing record 381: Turukhansk, ID: 1488903 
+Processing record 382: Cascais, ID: 2269594 
+sataua, ws not found. Skipping City...
+Processing record 383: Hengshui, ID: 1808392 
+betioky, mg not found. Skipping City...
+Processing record 384: Marawi, ID: 370481 
+Processing record 385: Vardo, ID: 777019 
+Processing record 386: Jumla, ID: 1283285 
+Processing record 387: Sovetskiy, ID: 490040 
+Processing record 388: Kathmandu, ID: 1283240 
+Processing record 389: Moore, ID: 4542975 
+Processing record 390: Ahipara, ID: 2194098 
+Processing record 391: Namwala, ID: 901766 
+Processing record 392: Hoima, ID: 233312 
+samalaeulu, ws not found. Skipping City...
+raga, sd not found. Skipping City...
+Processing record 393: Hakodate, ID: 2130188 
+Processing record 394: Goundam, ID: 2456917 
+Processing record 395: Puerto Baquerizo Moreno, ID: 3652758 
+Processing record 396: Xiaoweizhai, ID: 1789945 
+Processing record 397: Narsipatnam, ID: 1261748 
+Processing record 398: Eregli, ID: 315498 
+Processing record 399: Beisfjord, ID: 3144987 
+Processing record 400: Tirukkoyilur, ID: 1254377 
+miyata, jp not found. Skipping City...
+mahon, es not found. Skipping City...
+Processing record 401: Kilindoni, ID: 157429 
+Processing record 402: Domoni, ID: 921906 
+Processing record 403: Solnechnyy, ID: 2016307 
+Processing record 404: Cabedelo, ID: 3404558 
+goderich, sl not found. Skipping City...
+Processing record 405: Mitu, ID: 3674676 
+Processing record 406: Rio Gallegos, ID: 3838859 
+Processing record 407: Zelenets, ID: 479119 
+Processing record 408: Ankang, ID: 1789065 
+Processing record 409: Kampot, ID: 1831112 
 mrirt, ma not found. Skipping City...
-Processing record 577: Kijang, ID: 1640044 
-Processing record 578: Tortoli, ID: 2522890 
-Processing record 579: Quatre Cocos, ID: 1106643 
+Processing record 410: Khalkhal, ID: 128008 
+Processing record 411: Newport, ID: 5223593 
+Processing record 412: Del Rio, ID: 5520076 
+Processing record 413: Aquiraz, ID: 3407407 
+Processing record 414: Tiksi, ID: 2015306 
+Processing record 415: Litovko, ID: 2020738 
+Processing record 416: Sao Filipe, ID: 3374210 
+Processing record 417: Saint-Ambroise, ID: 6137381 
+Processing record 418: Aberdeen, ID: 5785243 
+Processing record 419: Mount Gambier, ID: 2156643 
+Processing record 420: Mahajanga, ID: 1062663 
+malakal, sd not found. Skipping City...
+Processing record 421: Pochutla, ID: 3517970 
+Processing record 422: Wanaka, ID: 2184707 
+Processing record 423: Taltal, ID: 3870243 
+Processing record 424: Grindavik, ID: 3416888 
+Processing record 425: Uruzgan, ID: 1131462 
+Processing record 426: Port-Cartier, ID: 6111696 
+Processing record 427: Rexburg, ID: 5605242 
+Processing record 428: Boa Vista, ID: 3664980 
+Processing record 429: Luba, ID: 2309528 
+Processing record 430: Marana, ID: 5303705 
+Processing record 431: Lithgow, ID: 2160053 
+Processing record 432: Olinda, ID: 3456160 
+maghama, mr not found. Skipping City...
+Processing record 433: Mildura, ID: 2157698 
+Processing record 434: Coihaique, ID: 3894426 
+Processing record 435: Honningsvag, ID: 779554 
+Processing record 436: Netrakona, ID: 1185116 
+Processing record 437: Sokol, ID: 491281 
+kibala, ao not found. Skipping City...
+Processing record 438: Murakami, ID: 1856434 
+Processing record 439: Abha, ID: 110690 
+Processing record 440: Nelson Bay, ID: 2155562 
+Processing record 441: Pundaguitan, ID: 1698289 
+Processing record 442: Quetta, ID: 1167528 
+khor, qa not found. Skipping City...
+Processing record 443: Necochea, ID: 3430443 
+Processing record 444: Svirsk, ID: 2015842 
+lata, sb not found. Skipping City...
+Processing record 445: Beni Suef, ID: 359173 
+Processing record 446: Totness, ID: 3382867 
+Processing record 447: Esik, ID: 1523741 
+Processing record 448: Murindo, ID: 3674161 
+satitoa, ws not found. Skipping City...
+Processing record 449: Liberal, ID: 5445820 
+Processing record 450: Nishihara, ID: 1850144 
+kilakarai, in not found. Skipping City...
+Processing record 451: Shumskiy, ID: 1491977 
+Processing record 452: Brownsville, ID: 4676740 
+Processing record 453: Muzhi, ID: 1498161 
+Processing record 454: Beyneu, ID: 610298 
+Processing record 455: Meulaboh, ID: 1214488 
+Processing record 456: Petropavlovsk-Kamchatskiy, ID: 2122104 
+Processing record 457: Asyut, ID: 359783 
+Processing record 458: Troitsko-Pechorsk, ID: 481548 
+Processing record 459: Medea, ID: 2488835 
+Processing record 460: Kendari, ID: 1640344 
+Processing record 461: Grand Gaube, ID: 934479 
+Processing record 462: Terney, ID: 2015352 
+Processing record 463: Jalingo, ID: 2340446 
+Processing record 464: Kroya, ID: 7870153 
+Processing record 465: Qasigiannguit, ID: 3420768 
+Processing record 466: Callaway, ID: 5024237 
+Processing record 467: Nanortalik, ID: 3421765 
+Processing record 468: Bartica, ID: 3379507 
+Processing record 469: Amuntai, ID: 1651461 
+Processing record 470: Oranzherei, ID: 515109 
+Processing record 471: Miguel Hidalgo, ID: 3827408 
+Processing record 472: Bahia Honda, ID: 3567995 
+Processing record 473: Skibbereen, ID: 2961459 
+Processing record 474: Mateus Leme, ID: 3457484 
+Processing record 475: Kormend, ID: 3049430 
+Processing record 476: Surat, ID: 1255364 
+Processing record 477: Pangody, ID: 1495626 
+Processing record 478: Mayo, ID: 6068416 
+ozgon, kg not found. Skipping City...
+Processing record 479: Leshukonskoye, ID: 535839 
+solovetskiy, ru not found. Skipping City...
+Processing record 480: Flinders, ID: 6255012 
+Processing record 481: Aksu, ID: 1529660 
+tabiauea, ki not found. Skipping City...
+Processing record 482: Ternate, ID: 1624041 
+Processing record 483: Kaa-Khem, ID: 1500973 
+Processing record 484: Marsabit, ID: 187585 
+Processing record 485: Saint George, ID: 3573061 
+Processing record 486: Beringovskiy, ID: 2126710 
+Processing record 487: Vao, ID: 2137773 
+Processing record 488: Motupe, ID: 3694569 
+Processing record 489: Agutaya, ID: 1731798 
+Processing record 490: Tijuana, ID: 3981609 
+emba, kz not found. Skipping City...
+Processing record 491: Jasper, ID: 5985918 
+Processing record 492: Jinxiang, ID: 1787335 
+Processing record 493: Cabra, ID: 1721491 
+amderma, ru not found. Skipping City...
+cheuskiny, ru not found. Skipping City...
+Processing record 494: Guarapari, ID: 3461888 
+Processing record 495: Soyo, ID: 2236967 
+Processing record 496: Benito Juarez, ID: 3991622 
+Processing record 497: West Lafayette, ID: 4928096 
+da nang, vn not found. Skipping City...
+Processing record 498: Santa Isabel do Rio Negro, ID: 3662489 
+Processing record 499: Tautira, ID: 4033557 
+Processing record 500: Danshui, ID: 1813812 
+Processing record 501: Saint-Pierre, ID: 3424934 
+bac lieu, vn not found. Skipping City...
+Processing record 502: Staryy Nadym, ID: 1490918 
+Processing record 503: Chany, ID: 1508458 
+yirol, sd not found. Skipping City...
+Processing record 504: Ibra, ID: 287832 
+Processing record 505: Baiyin, ID: 1817240 
+Processing record 506: Salta, ID: 3838233 
+Processing record 507: Farafangana, ID: 1065158 
+Processing record 508: Oum Hadjer, ID: 2426370 
+Processing record 509: Naze, ID: 1855540 
+Processing record 510: Mayumba, ID: 2399001 
+Processing record 511: Serenje, ID: 898912 
+Processing record 512: Yura, ID: 3925467 
+Processing record 513: Voloshka, ID: 472387 
+Processing record 514: Hami, ID: 1529484 
+Processing record 515: Honiara, ID: 2108502 
+Processing record 516: Puerto Madryn, ID: 3840092 
+Processing record 517: Pokhara, ID: 1282898 
+Processing record 518: Comodoro Rivadavia, ID: 3860443 
+Processing record 519: Rio Grande, ID: 3451138 
+talah, tn not found. Skipping City...
+Processing record 520: Koroni, ID: 259265 
+Processing record 521: Venice, ID: 4176380 
+Processing record 522: Tabou, ID: 2281120 
+chagda, ru not found. Skipping City...
+Processing record 523: Vagur, ID: 2610806 
